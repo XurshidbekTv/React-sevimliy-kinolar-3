@@ -1,0 +1,18 @@
+.app{
+    color: black;
+    height: 100vh;
+    font-family: monospace;
+}
+.content{
+    max-width: 1000px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 5rem 0;
+}
+.search-panel{
+    padding: 1.5rem;
+    border-radius: 4px;
+    background-color:#fcfa;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+    margin-top:  1.5rem;
+}
