@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-sevimliy-kinolar-3/static/css/main.17e790c9.css",
+    "main.js": "/React-sevimliy-kinolar-3/static/js/main.9e83a411.js",
+    "index.html": "/React-sevimliy-kinolar-3/index.html",
+    "main.17e790c9.css.map": "/React-sevimliy-kinolar-3/static/css/main.17e790c9.css.map",
+    "main.9e83a411.js.map": "/React-sevimliy-kinolar-3/static/js/main.9e83a411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e790c9.css",
+    "static/js/main.9e83a411.js"
+  ]
+}
